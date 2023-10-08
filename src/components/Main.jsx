@@ -1,5 +1,9 @@
+import Section from "./Section";
+
 const Main = () => {
-    return <main>Main</main>;
+    return <main>
+        <Section />
+    </main>;
 }
 
 export default Main;
