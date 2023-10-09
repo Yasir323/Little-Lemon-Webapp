@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "../static/css/Section.css";
+import "../static/css/Banner.css";
 import bannerImage from "../static/images/restauranfood.jpg";
 
 const Section = () => {

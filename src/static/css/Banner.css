@@ -1,4 +1,4 @@
-section {
+.banner {
     background-color: #495e57;
     padding: 40px 0;
     color: #EDEFEE;
@@ -38,10 +38,10 @@ button {
     cursor: pointer;
 }
 
-.banner-img{
+.banner-img {
     position: absolute;
     right: 13%;
-    top: 15%;
+    top: 20%;
     width: 400px;
 }
 
